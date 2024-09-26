@@ -1,4 +1,3 @@
 EMPRESA <br>
-                    La XXX INDÚSTRIA DE MÁQUINAS LTDA, fue fundada en 1970, y sé a convertido <br>
-                    en la más importante y tradicional fabrica de MÁQUINAS ENSACADORAS em <br>
-                    Brasil.
+                    A XXX INDÚSTRIA DE MÁQUINAS LTDA, foi fundada em 1970, e tornou-se o <br>
+                    mais importante e tradicional fabricante de máquinas ensacadeiras no Brasil.

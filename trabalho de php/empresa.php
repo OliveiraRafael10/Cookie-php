@@ -8,10 +8,10 @@
 </head>
 <body>
     <?php
-        $linha = file_get_contents("versao.txt", "r");
-        echo "<div class = 'conteudo'>{$linha} <br><br><br>
+        $arquivo = file_get_contents("versao.txt", "r");
+        echo "<div class = 'conteudo'>{$arquivo} <br><br><br>
         
-        <a  class='botao' href='index.php?id=excluir'>Escolher outro idioma</a>
+        <a  class='botao' href='index.php?id=novo-idioma'>Escolher outro idioma</a>
 
         </div>";
        
